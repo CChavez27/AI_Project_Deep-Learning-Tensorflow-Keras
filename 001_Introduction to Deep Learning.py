@@ -1,5 +1,5 @@
 import tensorflow as tf
-from tensorflow.keras.datasets import mnist
+from tensorflow.keras.datasets import mnist  # Ejemplo de importación
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Flatten
 import matplotlib.pyplot as plt
